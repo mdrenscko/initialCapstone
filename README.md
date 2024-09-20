@@ -1,4 +1,4 @@
-# initialCaptone
+# initialCapstone
 Investment &amp; Home Loan Calculator Suite
 assume that you have been approached by a small
 financial company and asked to create a program that allows the user to access
